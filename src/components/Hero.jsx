@@ -44,7 +44,7 @@ export default function Hero() {
             {/* Right Side */}
             <div className="w-[300px] h-[300px] mb-10 md:mb-0 md:ml-10">
                 <img
-                  src="/public/projects/2024_01_07_04_20_IMG_0951.JPG"
+                  src="/2024_01_07_04_20_IMG_0951.JPG"
                   alt="profile"
                   className="rounded-full w-full h-full object-cover shadow-lg border-4 border-indigo-500"
                 />
