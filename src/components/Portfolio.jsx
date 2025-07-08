@@ -56,11 +56,12 @@ export default function Portfolio() {
       </div>
 
       {/* Modal */}
-      <ProjectModal
+      {/* <ProjectModal
         isOpen={selectedProject !== null}
         project={selectedProject}
         onClose={() => setSelectedProject(null)}
-      />
+      /> */}
+      
     </section>
   );
 }
